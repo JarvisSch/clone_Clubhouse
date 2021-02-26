@@ -1,7 +1,7 @@
 # Um Clone do app Club House
 
 ## Demonstration 
-<img src="https://prnt.sc/zsgevv" alt="Exemplo">
+<img src="./assets/demo.png" alt="Exemplo">
 
 ## TECHS 
 
