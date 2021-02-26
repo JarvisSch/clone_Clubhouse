@@ -2,7 +2,7 @@
 
 ## Demonstration
 <h1 align="center">
-<img src="./assets/demo.png" alt="Exemplo">
+    <img src="./assets/demo.png">
 </h1>
 
 ## TECHS 
